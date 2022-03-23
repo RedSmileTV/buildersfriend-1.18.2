@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "  X",
+    "  X"
+  ],
+  "key": {
+    "X": {
+      "item": "buildersfriend:calcite_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:calcite",
+    "count": 1
+  }
+}

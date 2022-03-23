@@ -1,0 +1,15 @@
+{
+  "__comment": "Items",
+
+  "item.buildersfriend.iron_hammer": "Iron Hammer",
+
+  "__comment": "Blocks",
+
+  "block.buildersfriend.calcite_bricks": "Calcite Bricks",
+  "block.buildersfriend.calcite_slab": "Calcite Slab",
+  "block.buildersfriend.calcite_stairs": "Calcite Stairs",
+
+  "__comment": "ItemGroups",
+
+  "itemGroup.buildersfriend": "BuildersFriend"
+}

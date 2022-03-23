@@ -1,0 +1,15 @@
+{
+  "__comment": "Items",
+
+  "item.buildersfriend.iron_hammer": "Eisenhammer",
+
+  "__comment": "Blocks",
+
+  "block.buildersfriend.calcite_bricks": "Kalzitziegel",
+  "block.buildersfriend.calcite_slab": "Kalzitstufe",
+  "block.buildersfriend.calcite_stairs": "Kalzittreppenstufe",
+
+  "__comment": "ItemGroups",
+
+  "itemGroup.buildersfriend": "BuildersFriend"
+}
