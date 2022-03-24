@@ -8,6 +8,7 @@
   "block.buildersfriend.calcite_bricks": "Kalzitziegel",
   "block.buildersfriend.calcite_slab": "Kalzitstufe",
   "block.buildersfriend.calcite_stairs": "Kalzittreppenstufe",
+  "block.buildersfriend.calcite_wall": "Kalzitmauer",
 
   "__comment": "ItemGroups",
 
