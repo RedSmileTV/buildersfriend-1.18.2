@@ -1,6 +1,6 @@
 package de.redsmiletv;
 
-import de.redsmiletv.block.ModBlocks;
+import de.redsmiletv.item.block.ModBlocks;
 import de.redsmiletv.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;

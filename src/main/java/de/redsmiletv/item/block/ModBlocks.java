@@ -1,4 +1,4 @@
-package de.redsmiletv.block;
+package de.redsmiletv.item.block;
 
 import de.redsmiletv.buildersfriend;
 import de.redsmiletv.item.ModCreativeModeTab;
